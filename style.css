@@ -92,3 +92,17 @@ h1 {
     gap: 5px 10px;
     max-width: 25rem;
 }
+
+.information {
+    display: block;
+}
+
+h2 {
+    color: #fffacd;
+    text-shadow: #fc0 1px 0 5px;
+}
+
+p {
+    font-size: 25px;
+    font-weight: 400px;
+}
